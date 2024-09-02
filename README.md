@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor
 - 👀 I’m interested in Anime, Video Games and VN/Manga/Manhwa etc.
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning TypeScript and Flutter.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: eating 50 million bananas at a sitting may kill you from radiation poisoning, given you can eat it all that is.
 
